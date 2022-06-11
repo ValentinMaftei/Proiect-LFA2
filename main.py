@@ -130,4 +130,3 @@ for x in automatFinal:
         dfa.edge(x, y[0], label=y[1])
 
 dfa.view()
-+
